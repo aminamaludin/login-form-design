@@ -1,0 +1,29 @@
+html {
+  font-size: 14px;
+}
+body {
+ 
+  font-family: 'Montserrat';
+  /*background-color: #86DFD9;*/
+  background: url(bg.png);
+  
+}
+.btn{
+  border-radius: 50px;
+  padding: 0 26px;
+}
+.mg{
+  margin-top: 50px;
+}
+/*.card-title {
+    background: linear-gradient(45deg, #fdce4e 0%, #f9d423 100%);
+    background: -moz-linear-gradient(45deg, #fdce4e 0%, #f9d423 100%);
+    background: -webkit-linear-gradient(45deg, #fdce4e 0%, #f9d423 100%);
+    color: #6d4206;
+}*/
+
+.card-title {
+  margin-top: 20px;
+  height: 100px;
+  margin-bottom: 20px;
+}
