@@ -1,3 +1,17 @@
+<?php
+	/**
+	* File login.php
+	*
+	*/
+
+	/**
+	* Class login
+	* @package 		Login Form
+	* @author 		(Amin <aminamaludin001@gmail.com>)
+	* @version      v.0.0.1 (login form)
+	*/
+
+?>
 <html>
     <head>
        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
